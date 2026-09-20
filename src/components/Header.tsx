@@ -15,7 +15,7 @@ export default function Header() {
     <header className="fixed left-0 right-0 top-0 z-50">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-8 py-6">
         <Link to="/" aria-label="Velorah home" className="font-display text-3xl tracking-tight text-foreground">
-          Velorah<sup className="text-xs">®</sup>
+          xllx<sup className="text-xs">®</sup>
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex" aria-label="Primary">
