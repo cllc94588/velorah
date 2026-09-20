@@ -26,7 +26,7 @@ export default function App() {
           style={{ fontFamily: "'Instrument Serif', serif" }}
           aria-label="Velorah home"
         >
-          Velorah<sup className="text-xs">®</sup>
+          xllx<sup className="text-xs">®</sup>
         </a>
 
         <div className="hidden items-center gap-8 md:flex" aria-label="Primary navigation">
